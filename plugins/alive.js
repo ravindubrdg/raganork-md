@@ -33,8 +33,8 @@ Module({
   var myid = message.client.user.id.split(":")[0]
   var buttons = [{
     urlButton: {
-        displayText: 'Github',
-        url: 'https://github.com/souravkl11/raganork'
+        displayText: 'Official Whatsapp',
+        url: 'https://wa.me/+94740502904'
     }
 }, {
   urlButton: {
